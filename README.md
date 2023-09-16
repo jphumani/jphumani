@@ -1,10 +1,10 @@
 ## "Hola Mundo" desde Argentina...Que trillado  🤣👋
 <br>
 <br>
-Soy Juan Pablo y luego de casi 20 años trabajando en el mundo de Retail y ventas me estoy sumergieno en el mundo de los datos.
+Soy Juan Pablo y luego de casi 20 años trabajando en el mundo de Retail y ventas me estoy sumergiendo en el mundo de los datos.
 <br>
 #🗺️ ¿Por qué Datos? <br>
-Creo que tenemos mucho por aprender y encontrar 🔭. Sin darnos cuenta vemos infinidad de datos a diario y poco alcanzamos a procesar.
+Creo que tenemos mucho por aprender y encontrar 🔭. Sin darnos, cuenta vemos infinidad de datos a diario y poco alcanzamos a procesar.
 <br><br>
 #🤔 ¿Que puedo aportar? <br>
 Algo de lo que muy pocos hablan, pensamiento crítico y creatividad. No seré el mejor, pero puedo darle una persepectiva distinta al análisis y creo que mi formación en Ciencias Sociales tiene mucho que ver con eso. Soy curioso, emprendedor y tengo gran adaptabilidad al cambio.
