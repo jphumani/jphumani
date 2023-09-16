@@ -1,4 +1,4 @@
-## Hola Mundo desde Argentina...Que trillado  🤣👋
+## "Hola Mundo" desde Argentina...Que trillado  🤣👋
 <br>
 <br>
 Soy Juan Pablo y luego de casi 20 años trabajando en el mundo de Retail y ventas me estoy sumergieno en el mundo de los datos.
@@ -7,10 +7,10 @@ Soy Juan Pablo y luego de casi 20 años trabajando en el mundo de Retail y venta
 Creo que tenemos mucho por aprender y encontrar 🔭. Sin darnos cuenta vemos infinidad de datos a diario y poco alcanzamos a procesar.
 <br><br>
 #🤔 ¿Que puedo aportar? <br>
-Algo de lo que muy pocos hablan, pensamiento crítico y creatividad. No seré el mejor, pero puedo darle una persepectiva distinta al análisis y creo que mi formación en Ciencias Sociales ayuda mucho.
+Algo de lo que muy pocos hablan, pensamiento crítico y creatividad. No seré el mejor, pero puedo darle una persepectiva distinta al análisis y creo que mi formación en Ciencias Sociales tiene mucho que ver con eso. Soy curioso, emprendedor y tengo gran adaptabilidad al cambio.
 <br><br>
 #🤔 ¿Que me gusta? <br>
-¿Ademas del Futbol? ⚽💘, SQL principalmente y Python como una herramienta de transformación sin límites
+¿Ademas del Futsal y tocar música? ⚽💘, SQL principalmente y Python como una herramienta de transformación sin límites. Actualmente estoy descubriendo el mundo del desarrollo
 <br><br>
 #💬 Hablemos! Tengo mucho para aprender todavia <br>
 El mundo IT es mas grande y profundo de lo que uno imagina. Si tenes algo que sumarme...sin dudas! Escribime.
